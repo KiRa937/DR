@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7c65f574ea8de214c8bbad0285baa7fb
+timeCreated: 1524342813
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {fileID: 1842817535710480, guid: c93c830d975566847b43766f1076444c, type: 2}
+  - ground: {fileID: 1253399110678634, guid: a5e384edd8053514fb6ab43b0a994fd4, type: 2}
+  - start: {fileID: 1199028816603082, guid: 9513af1dc536afa4c945b8719aaf859f, type: 2}
+  - finish: {fileID: 1600146383481408, guid: d45bcb2f117890d4b87fea2ba348e0be, type: 2}
+  - player: {fileID: 1843803492715172, guid: 47b02d4f75d58f340b522e8e7b32a689, type: 2}
+  - surface: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
